@@ -1,31 +1,17 @@
 body{
     background-color: #f5f5dd;
 }
-div.czarny{
-    background-color: rgba(0,0,0,1);
-    margin-left: auto;
-    margin-right: auto;
-    height: 150px;
-    width: 10em;
-     }
-div.czarny05{
-    background-color: rgba(0,0,0,0.4);
+div{
     margin-left: auto;
     margin-right: auto;
     height: 150px;
     width: 10em;
 }
-div.szary{
-    background-color: rgba(0,0,0,0.3);
-    margin-left: auto;
-    margin-right: auto;
-    height: 150px;
-    width: 10em;
-}
-div.bialy{
-    background-color: rgba(0,0,0,0.1);
-    margin-left: auto;
-    margin-right: auto;
-    height: 150px;
-    width: 10em;
-}
+.czarny{
+    background-color: rgba(0,0,0,1);}
+.czarny05{
+    background-color: rgba(0,0,0,0.4);}
+.szary{
+    background-color: rgba(0,0,0,0.3);}
+.bialy{
+    background-color: rgba(0,0,0,0.1);}
